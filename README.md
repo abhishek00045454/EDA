@@ -44,4 +44,4 @@ Reference-
 https://corpocrat.com/2014/08/29/tutorial-titanic-dataset-machine-learning-for-kaggle/ 
  
 2. Titanic data-science solutions
-https://www.kaggle.com/startupsci/titanic-data-science-solutions/notebook 
+https://github.com/abhishek00045454/EDA
